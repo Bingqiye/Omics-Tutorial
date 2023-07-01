@@ -1,3 +1,2 @@
 # Omics-Tutorial
-
-* [WGCNA分析叫程](https://blog.csdn.net/qq_43138237/article/details/124031642)
+* [WGCNA分析教程](https://blog.csdn.net/qq_43138237/article/details/124031642)
