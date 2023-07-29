@@ -5,3 +5,6 @@
 * [[*Nature Protocols*] Omics关联性分析框架](https://www.nature.com/articles/s41596-018-0064-z)
 * [非线性模型的分类与介绍](https://isem-cueb-ztian.github.io/Intro-Econometrics-2017/handouts/lecture_notes/lecture_10/lecture_10.pdf)
 * [非线性模型在宏基因组关联性研究中的适用性](https://www.nature.com/articles/s41467-022-32243-x#citeas)
+* [查找特定基因的详细信息](https://www.genecards.org/)
+* [使用String数据库预测代谢物的基因作用靶点](https://cn.string-db.org/cgi/input?sessionId=bZSt5IRWTzJG&input_page_show_search=on)
+* [使用SEA数据库预测代谢物的基因作用靶点](https://sea.bkslab.org/)
