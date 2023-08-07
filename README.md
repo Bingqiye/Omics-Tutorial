@@ -8,4 +8,5 @@
 * [查找特定基因的详细信息](https://www.genecards.org/)
 * [使用String数据库预测代谢物的基因作用靶点](https://cn.string-db.org/cgi/input?sessionId=bZSt5IRWTzJG&input_page_show_search=on)
 * [使用SEA数据库预测代谢物的基因作用靶点](https://sea.bkslab.org/)
-* [排序分析的教程与详细解析](https://zhuanlan.zhihu.com/p/398383746)
+* [排序分析的分类与简单教程](https://zhuanlan.zhihu.com/p/398383746)
+* [RDA排序分析的详细教程](https://mp.weixin.qq.com/s?__biz=MzIzMTgwMjk1NQ==&mid=2247483833&idx=1&sn=8385574b723a9817396b175c83de9b54&chksm=e89fd09ddfe8598b9ac4ff4645f93eb220bd2b96d8c8093ef63097b7df5faabd1ff05bddb0a6&scene=21#wechat_redirect)
