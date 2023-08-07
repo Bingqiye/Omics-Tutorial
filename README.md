@@ -8,3 +8,4 @@
 * [查找特定基因的详细信息](https://www.genecards.org/)
 * [使用String数据库预测代谢物的基因作用靶点](https://cn.string-db.org/cgi/input?sessionId=bZSt5IRWTzJG&input_page_show_search=on)
 * [使用SEA数据库预测代谢物的基因作用靶点](https://sea.bkslab.org/)
+* [排序分析的教程与详细解析](https://zhuanlan.zhihu.com/p/398383746)
