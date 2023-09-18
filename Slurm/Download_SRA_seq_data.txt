@@ -1,0 +1,6 @@
+#进入存放sra文件的目标文件夹
+cd /d "D:\sra"
+#下载sra文件
+"D:\sratoolkit.3.0.6-win64\bin\prefetch.exe" --option-file "D:\SRR_Acc_List.txt"
+#将sra文件转为fastq文件
+"D:\sratoolkit.3.0.6-win64\bin\fasterq-dump.exe" -O .\SRR19064377 D:\sra\sra\SRR19064377
